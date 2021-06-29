@@ -5,7 +5,7 @@
 
 - 💬 Ask me about [how to code a chess bot that beats the best humans on earth at puzzle rush!](https://github.com/Clement-Lelievre/puzzle_rush_bot_OOP)
 
-- 📝 I regularly write articles on [www.blog.finxter.com/author/clementlelievre/](www.blog.finxter.com/author/clementlelievre/)
+- 📝 I regularly write articles on [Finxter](www.blog.finxter.com/author/clementlelievre/)
 
 - 👯 I’m looking to collaborate on a freelance Python project involving some or all tasks among the fields of data analytics, scraping, automation and data science **www.malt.fr/profile/python**
 
