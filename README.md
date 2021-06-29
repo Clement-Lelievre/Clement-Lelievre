@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently learning **so many things, from machine learning and data engineering to neural nets!**
 
-- 👯 I’m looking to collaborate on [a freelance Python project involving some or all tasks among the fields of data analytics, scraping, automation and data science](www.malt.fr/profile/python)
-
 - 💬 Ask me about [how to code a chess bot that beats the best humans on earth at puzzle rush!](https://github.com/Clement-Lelievre/puzzle_rush_bot_OOP)
-
-- 🎓 I'm a Le Wagon alumnus [www.lewagon.com](www.lewagon.com)
 
 - 📝 I regularly write articles on [www.blog.finxter.com/author/clementlelievre/](www.blog.finxter.com/author/clementlelievre/)
 
+- 👯 I’m looking to collaborate on a freelance Python project involving some or all tasks among the fields of data analytics, scraping, automation and data science **www.malt.fr/profile/python**
+
 - 📫 How to reach me **clement.datascience@gmail.com**
+
+- 🎓 I'm a Le Wagon alumnus [www.lewagon.com](www.lewagon.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
