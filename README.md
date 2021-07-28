@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clem</h1>
-<h3 align="center">A passionate data science dev</h3>
+<h3 align="center">A passionate automation and data science dev</h3>
 
 - 🔭 I’m currently learning **so many things, from machine learning and data engineering to neural nets!**
 
