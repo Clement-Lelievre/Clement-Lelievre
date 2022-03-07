@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.finxter.com/author/clementlelievre/](https://blog.finxter.com/author/clementlelievre/)
 
-- 👯 I’m looking to collaborate on a **freelance** Python project involving some or all tasks among the fields of data analytics, scraping, automation and data science **www.malt.fr/profile/python**
+- 👯 I’m looking to collaborate on a **freelance** Python project involving some or all tasks among the fields of data analytics, scraping, automation and data science
 
 - 📫 How to reach me **clement.datascience@gmail.com**
 
