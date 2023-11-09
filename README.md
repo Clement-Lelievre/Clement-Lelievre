@@ -6,7 +6,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/clem-data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clem-data" height="30" width="40" /></a>
 <a href="https://www.malt.fr/profile/python" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.malt.fr/profile/python" height="30" width="40" /></a>
 <a href="https://kaggle.com/xlpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xlpy" height="30" width="40" /></a>
 </p>
