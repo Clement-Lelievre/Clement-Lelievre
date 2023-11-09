@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Clem</h1>
 
-- 🔭 My current interest lies in machine learning and data engineering, but I love thinking by myself and understanding algorithms. (I feel that ML/DL packages can be deskilling: it is much easier in my opinion to fit a neural net with Keras than to write Djikstra's algo from scratch)
+- 🔭 My current interest lies in machine learning engineering, and I love thinking by myself and understanding algorithms. (I feel that ML/DL packages can be deskilling: it is much easier in my opinion to fit a neural net with Keras than to write Djikstra's algo from scratch)
 
-- 💬 Ask me about [how to code a chess bot that beats the best humans on earth at puzzle rush!](https://github.com/Clement-Lelievre/puzzle_rush_bot_OOP)
-
-- 🎓 I'm a Le Wagon alumnus [https://www.lewagon.com](https://www.lewagon.com)
-
-- 📝 I regularly write articles on [https://blog.finxter.com/author/clementlelievre/](https://blog.finxter.com/author/clementlelievre/)
-
-- 👯 I’m looking to collaborate on a **freelance** Python project involving some or all tasks among the fields of data analytics, scraping, automation and data science
-
-- 📫 How to reach me **clement.datascience@gmail.com**
+- 👯 Freelancing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
