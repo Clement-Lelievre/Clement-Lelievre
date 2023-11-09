@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Clem</h1>
-<h3 align="center">A passionate automation and data science dev</h3>
 
 - 🔭 My current interest lies in machine learning and data engineering, but I love thinking by myself and understanding algorithms. (I feel that ML/DL packages can be deskilling: it is much easier in my opinion to fit a neural net with Keras than to write Djikstra's algo from scratch)
 
