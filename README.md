@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clem</h1>
 
-- 🔭 My current interest lies in machine learning engineering, and I love thinking by myself and understanding algorithms. (I feel that ML/DL packages can be deskilling: it is much easier in my opinion to fit a neural net with Keras than to write Djikstra's algo from scratch)
+- 🔭 My current interest lies in machine learning engineering, and I love thinking by myself and understanding algorithms.
 
 - 👯 Freelancing
 
