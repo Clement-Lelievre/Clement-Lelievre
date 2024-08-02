@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Clem</h1>
 
-- 🔭 My current interest lies in machine learning engineering, and I love thinking by myself and understanding algorithms.
+- 🔭 My current interest lies in machine learning engineering, and understanding algorithms
 
 - 👯 Freelancing
+
+- Likes to play chess
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
